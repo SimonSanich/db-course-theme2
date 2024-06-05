@@ -6,4 +6,17 @@
 <!-- @include: ./sql/db.sql -->
 ```
 
-## RESTfull сервіс для управління даними
+## RESTfull сервіс для роботи зі змінами
+
+### Підключення до бази данних
+
+<!-- @include: ./RESTApi/Db_conn.cs -->
+
+### API контроллер
+
+<!-- @include: ./RESTApi/updateController.cs -->
+
+### Строка підключення
+
+<!-- @include: ./RESTApi/appSettings.json -->
+
