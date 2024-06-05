@@ -15,6 +15,5 @@ export default defineUserConfig({
     md.use(MarkdownItPlantuml);
   },
 
-  // Enable it with pwa
-  // shouldPrefetch: false,
+
 });
