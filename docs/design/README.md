@@ -11,4 +11,5 @@
 
 ## Реляційна схема
 
+
 ![](./images/db_course.pgerd.png)
