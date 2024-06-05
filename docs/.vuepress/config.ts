@@ -15,6 +15,4 @@ export default defineUserConfig({
     md.use(MarkdownItPlantuml);
   },
 
-
-  
 });
